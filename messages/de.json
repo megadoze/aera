@@ -1,0 +1,241 @@
+{
+  "B2B": {
+    "nav": {
+      "product": "Produkt",
+      "cases": "Cases",
+      "screens": "Screens",
+      "pricing": "Preise",
+      "cta": "Projekt besprechen"
+    },
+    "hero": {
+      "badge": "White-label",
+      "title": "Eine Lösung für Autovermietungen.",
+      "subtitle": "Website, Online-Buchung und Verwaltungsoberfläche — alles in einem System.",
+      "ctaPrimary": "Demo ansehen",
+      "ctaSecondary": "Interface ansehen",
+      "stats": {
+        "setup": {
+          "k": "Einrichtung",
+          "v": "€ 2500",
+          "d": "einmaliger Start"
+        },
+        "support": {
+          "k": "Support",
+          "v": "ab € 100/Monat",
+          "d": "Stabilität und Wachstum"
+        },
+        "format": {
+          "k": "Format",
+          "v": "White-label",
+          "d": "für Ihre Marke und Prozesse"
+        }
+      },
+      "metrics": {
+        "site": {
+          "title": "Website",
+          "value": "Modern",
+          "note": "schafft Vertrauen"
+        },
+        "booking": {
+          "title": "Buchung",
+          "value": "24/7",
+          "note": "ohne Anrufe"
+        },
+        "panel": {
+          "title": "Verwaltung",
+          "value": "Control Panel",
+          "note": "alles unter Kontrolle"
+        }
+      }
+    },
+    "product": {
+      "eyebrow": "Warum man es kauft",
+      "title": "Nicht nur eine Website, sondern ein System für Buchung und Verwaltung einer Autovermietung",
+      "desc": "Hier wird nicht nur „Entwicklung“ verkauft, sondern eine fertige Lösung für Vermietungen: Vertrauen, komfortable Buchung und Ordnung im Betrieb.",
+      "tags": {
+        "brand": "für Ihre Marke",
+        "style": "dunkler Premium-Stil",
+        "whiteLabel": "white-label",
+        "ready": "bereit für Erweiterungen"
+      }
+    },
+    "features": [
+      {
+        "title": "White-label für Ihre Marke",
+        "desc": "Design, Texte, Farben und Struktur werden an die jeweilige Vermietung angepasst."
+      },
+      {
+        "title": "Online-Buchung",
+        "desc": "Der Kunde muss nicht suchen, wohin er schreiben soll: die Website führt direkt zur klaren Aktion."
+      },
+      {
+        "title": "Verwaltungsoberfläche",
+        "desc": "Verwaltung von Aufträgen, Fuhrpark, Status, Preisen und Verfügbarkeit an einem Ort."
+      },
+      {
+        "title": "Mobile Version",
+        "desc": "Das Interface sieht auch auf dem Smartphone stark aus und funktioniert sauber."
+      },
+      {
+        "title": "Support nach dem Launch",
+        "desc": "Ich überwache die Stabilität, nehme nötige Anpassungen vor und begleite das Projekt weiter."
+      },
+      {
+        "title": "Bereit für Wachstum",
+        "desc": "Erweiterbar mit Zahlungen, Rollen, CRM-Logik, Sprachen, Benachrichtigungen und neuen Modulen."
+      }
+    ],
+    "painBlock": {
+      "eyebrow": "Probleme, die das Produkt löst"
+    },
+    "pains": [
+      "Anfragen gehen in WhatsApp und Anrufen verloren",
+      "Mitarbeiter beantworten immer wieder dieselben Fragen",
+      "Es gibt keine Website, die wirklich Vertrauen aufbaut und verkauft",
+      "Für Kunden ist es schwer, ein Auto schnell ohne Chat-Nachrichten zu buchen"
+    ],
+    "benefits": {
+      "eyebrow": "Was der Inhaber bekommt",
+      "items": {
+        "trust": {
+          "title": "Mehr Vertrauen",
+          "desc": "Eine moderne Website wirkt wie ein ernsthaftes Unternehmen und nicht wie ein Mix aus Chats und Links."
+        },
+        "routine": {
+          "title": "Weniger manuelle Routine",
+          "desc": "Ein Teil der Fragen und Abläufe wandert aus Chats in ein klares Interface."
+        },
+        "control": {
+          "title": "Kontrolle über Anfragen",
+          "desc": "Alle Eingänge, Status und Abläufe werden in einem Panel gesammelt."
+        },
+        "growth": {
+          "title": "Basis für Wachstum",
+          "desc": "Die Lösung kann weiterentwickelt werden, ohne wieder bei null anzufangen."
+        }
+      }
+    },
+    "casesBlock": {
+      "eyebrow": "Relevante Cases",
+      "title": "Wie das für eine echte Autovermietung aussehen kann",
+      "openSite": "Website öffnen →"
+    },
+    "cases": [
+      {
+        "name": "CAR2DRIVE",
+        "city": "Ukraine",
+        "result": "+35% Anfragen über die Website",
+        "desc": "Website und Online-Buchung wurden eingeführt. Ein Teil der Anfragen wechselte aus Messengern ins System, wodurch der manuelle Aufwand sank.",
+        "url": "https://car2drive.ua",
+        "image": "/img/car2drivesite.avif"
+      },
+      {
+        "name": "MINI2GO",
+        "city": "Europa",
+        "result": "+28% Conversion",
+        "desc": "Wir haben einen bequemeren Buchungsablauf und eine Verwaltungsoberfläche aufgebaut und damit den Weg vom Fahrzeug zur Anfrage vereinfacht.",
+        "url": "https://mini2go.rent",
+        "image": "/img/mini2.avif"
+      }
+    ],
+    "screensBlock": {
+      "eyebrow": "Interface",
+      "title": "So sehen Website, Buchung und Verwaltungsoberfläche aus",
+      "watchVideo": "Video ansehen →"
+    },
+    "screenshots": [
+      {
+        "title": "Website für Kunden",
+        "desc": "Fahrzeugkatalog, Fahrzeugseiten, Datenauswahl und einfache Anfrage.",
+        "badge": "Website",
+        "image": "/posters/poster-view-001.png",
+        "video": "/videos/view-001.mp4"
+      },
+      {
+        "title": "Buchungsprozess",
+        "desc": "Der Kunde sendet die Anfrage ohne unnötige Anrufe, während das Team aus einem Panel arbeitet.",
+        "badge": "Buchung",
+        "image": "/posters/poster-booking-001.png",
+        "video": "/videos/booking-001.mp4"
+      },
+      {
+        "title": "Verwaltungsoberfläche",
+        "desc": "Verwaltung von Aufträgen, Fuhrpark, Status, Tarifen und Inhalten.",
+        "badge": "Panel",
+        "image": "/posters/poster-panel-001.png",
+        "video": "/videos/panel-001.mp4"
+      }
+    ],
+    "processBlock": {
+      "eyebrow": "Launch-Prozess",
+      "title": "Ein klarer Startprozess ohne unnötige Komplexität"
+    },
+    "process": [
+      "Wir prüfen Ihren Ablauf, Ihre Tarife und die Struktur der Vermietung",
+      "Wir passen die Lösung an Ihre Marke und Prozesse an",
+      "Wir zeigen das fertige Interface und stimmen die Details ab",
+      "Wir starten das Projekt und begleiten den Support nach dem Go-live"
+    ],
+    "pricing": {
+      "eyebrow": "Preise",
+      "title": "Klares Modell: Start + Support",
+      "desc": "Einmalige Einrichtung plus monatlicher Support. Kein Abonnement um des Abonnements willen, sondern klarer Geschäftswert.",
+      "setup": {
+        "title": "Einmaliger Start",
+        "price": "€ 2500",
+        "items": [
+          "Website in Ihrem Stil",
+          "Einrichtung der White-label-Lösung",
+          "Online-Buchung",
+          "Verwaltungsoberfläche",
+          "Grundlegende Anpassung an Ihren Prozess"
+        ]
+      },
+      "support": {
+        "title": "Support",
+        "price": "ab € 100 / Monat",
+        "items": [
+          "Technischer Support",
+          "Kleine Anpassungen",
+          "Stabilitätsüberwachung",
+          "Updates und Wartung",
+          "Hilfe nach dem Start"
+        ]
+      }
+    },
+    "faq": {
+      "title": "Häufige Fragen vor dem Start",
+      "desc": "Antworten auf die wichtigsten Fragen vor dem Start: Lösungsformat, Preis und Weiterentwicklung.",
+      "items": [
+        {
+          "q": "Ist das ein Template oder eine individuelle Entwicklung?",
+          "a": "Die Basis der Lösung ist fertig, aber jede Einrichtung wird an eine konkrete Vermietung angepasst: Marke, Struktur, Texte, Inhalte, Anfrage-Logik und Verwaltungsoberfläche."
+        },
+        {
+          "q": "Wie viel kostet der Start?",
+          "a": "Die einmalige Einrichtung kostet € 2500. Support beginnt ab € 100 pro Monat, je nach Umfang."
+        },
+        {
+          "q": "Was ist im monatlichen Support enthalten?",
+          "a": "Technischer Support, kleine Änderungen, Stabilitätsüberwachung, Updates und Hilfe mit dem System nach dem Start."
+        },
+        {
+          "q": "Können später neue Funktionen hinzugefügt werden?",
+          "a": "Ja. Das Projekt ist so aufgebaut, dass es weiterentwickelt werden kann: Online-Zahlungen, zusätzliche Rollen, Integrationen, Mehrsprachigkeit und andere Module."
+        }
+      ]
+    },
+    "contact": {
+      "eyebrow": "Kontakt",
+      "title": "Ich zeige die Demo, beantworte Fragen und helfe dabei, das System an Ihren Arbeitsablauf anzupassen.",
+      "telegram": "In Telegram schreiben",
+      "email": "Demo per E-Mail anfragen"
+    },
+    "modal": {
+      "close": "Video schließen"
+    },
+    "footer": {
+      "copy": "© 2026 FLEET WISE"
+    }
+  }
+}

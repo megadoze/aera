@@ -1,0 +1,241 @@
+{
+  "B2B": {
+    "nav": {
+      "product": "Producto",
+      "cases": "Casos",
+      "screens": "Pantallas",
+      "pricing": "Precios",
+      "cta": "Hablar del proyecto"
+    },
+    "hero": {
+      "badge": "White-label",
+      "title": "Una solución para negocios de alquiler de coches.",
+      "subtitle": "Sitio web, reservas online y panel de control: todo en un solo sistema.",
+      "ctaPrimary": "Ver demo",
+      "ctaSecondary": "Ver interfaz",
+      "stats": {
+        "setup": {
+          "k": "Implementación",
+          "v": "€ 2500",
+          "d": "lanzamiento único"
+        },
+        "support": {
+          "k": "Soporte",
+          "v": "desde € 100/mes",
+          "d": "estabilidad y crecimiento"
+        },
+        "format": {
+          "k": "Formato",
+          "v": "White-label",
+          "d": "adaptado a tu marca y proceso"
+        }
+      },
+      "metrics": {
+        "site": {
+          "title": "Sitio web",
+          "value": "Moderno",
+          "note": "genera confianza"
+        },
+        "booking": {
+          "title": "Reservas",
+          "value": "24/7",
+          "note": "sin llamadas"
+        },
+        "panel": {
+          "title": "Gestión",
+          "value": "Panel de control",
+          "note": "todo bajo control"
+        }
+      }
+    },
+    "product": {
+      "eyebrow": "Por qué lo compran",
+      "title": "No es solo una web, sino un sistema para reservas y gestión del alquiler",
+      "desc": "Aquí no se vende solo “desarrollo”, sino una solución lista para el negocio de alquiler: confianza, reservas cómodas y orden en la gestión.",
+      "tags": {
+        "brand": "para tu marca",
+        "style": "estilo premium oscuro",
+        "whiteLabel": "white-label",
+        "ready": "lista para ampliar"
+      }
+    },
+    "features": [
+      {
+        "title": "White-label para tu marca",
+        "desc": "Diseño, textos, colores y estructura adaptados a cada empresa de alquiler."
+      },
+      {
+        "title": "Reservas online",
+        "desc": "El cliente no tiene que buscar dónde escribir: la web le lleva a una acción clara."
+      },
+      {
+        "title": "Panel de control",
+        "desc": "Gestión de pedidos, flota, estados, precios y disponibilidad en un solo lugar."
+      },
+      {
+        "title": "Versión móvil",
+        "desc": "La interfaz se ve sólida y funciona correctamente en móvil."
+      },
+      {
+        "title": "Soporte después del lanzamiento",
+        "desc": "Superviso la estabilidad, hago los cambios necesarios y sigo acompañando el proyecto."
+      },
+      {
+        "title": "Lista para crecer",
+        "desc": "Se puede ampliar con pagos, roles, lógica CRM, idiomas, notificaciones y nuevos módulos."
+      }
+    ],
+    "painBlock": {
+      "eyebrow": "Problemas que resuelve"
+    },
+    "pains": [
+      "Las solicitudes se pierden entre WhatsApp y llamadas",
+      "El equipo responde manualmente siempre las mismas preguntas",
+      "No hay una web que realmente genere confianza y convierta",
+      "Al cliente le cuesta reservar rápido sin intercambiar mensajes"
+    ],
+    "benefits": {
+      "eyebrow": "Lo que obtiene el propietario",
+      "items": {
+        "trust": {
+          "title": "Más confianza",
+          "desc": "Una web moderna parece un negocio serio y no un conjunto de chats y enlaces."
+        },
+        "routine": {
+          "title": "Menos trabajo manual",
+          "desc": "Parte de las preguntas y procesos pasan del chat a una interfaz clara."
+        },
+        "control": {
+          "title": "Control de solicitudes",
+          "desc": "Todas las entradas, estados y lógica de trabajo se reúnen en un solo panel."
+        },
+        "growth": {
+          "title": "Base para crecer",
+          "desc": "La solución puede evolucionar sin empezar todo de cero."
+        }
+      }
+    },
+    "casesBlock": {
+      "eyebrow": "Casos relacionados",
+      "title": "Cómo puede verse en una empresa real de alquiler",
+      "openSite": "abrir sitio →"
+    },
+    "cases": [
+      {
+        "name": "CAR2DRIVE",
+        "city": "Ucrania",
+        "result": "+35% solicitudes desde la web",
+        "desc": "Implementamos la web y las reservas online. Parte de las solicitudes pasaron de mensajería al sistema, reduciendo el trabajo manual.",
+        "url": "https://car2drive.ua",
+        "image": "/img/car2drivesite.avif"
+      },
+      {
+        "name": "MINI2GO",
+        "city": "Europa",
+        "result": "+28% conversión",
+        "desc": "Creamos un flujo de reserva más cómodo y un panel de control, simplificando el camino del cliente desde la elección del coche hasta la solicitud.",
+        "url": "https://mini2go.rent",
+        "image": "/img/mini2.avif"
+      }
+    ],
+    "screensBlock": {
+      "eyebrow": "Interfaz",
+      "title": "Cómo se ve la web, el flujo de reservas y el panel de control",
+      "watchVideo": "ver vídeo →"
+    },
+    "screenshots": [
+      {
+        "title": "Sitio para clientes",
+        "desc": "Catálogo de coches, fichas, selección de fechas y envío cómodo de la solicitud.",
+        "badge": "Sitio",
+        "image": "/posters/poster-view-001.png",
+        "video": "/videos/view-001.mp4"
+      },
+      {
+        "title": "Proceso de reserva",
+        "desc": "El cliente envía la solicitud sin llamadas innecesarias y el gestor trabaja desde un solo panel.",
+        "badge": "Reserva",
+        "image": "/posters/poster-booking-001.png",
+        "video": "/videos/booking-001.mp4"
+      },
+      {
+        "title": "Panel de control",
+        "desc": "Gestión de pedidos, flota, estados, tarifas y contenido.",
+        "badge": "Panel",
+        "image": "/posters/poster-panel-001.png",
+        "video": "/videos/panel-001.mp4"
+      }
+    ],
+    "processBlock": {
+      "eyebrow": "Proceso de lanzamiento",
+      "title": "Un proceso claro sin complejidad innecesaria"
+    },
+    "process": [
+      "Revisamos vuestro modelo de trabajo, tarifas y estructura del alquiler",
+      "Adaptamos la solución a vuestra marca y procesos",
+      "Mostramos la interfaz lista y cerramos los detalles",
+      "Lanzamos el proyecto y damos soporte después del arranque"
+    ],
+    "pricing": {
+      "eyebrow": "Precios",
+      "title": "Modelo claro: lanzamiento + soporte",
+      "desc": "Implementación única más soporte mensual. Sin sensación de suscripción vacía, solo valor claro para el negocio.",
+      "setup": {
+        "title": "Lanzamiento único",
+        "price": "€ 2500",
+        "items": [
+          "Sitio web con vuestro estilo",
+          "Configuración de la solución white-label",
+          "Reservas online",
+          "Panel de control",
+          "Adaptación básica a vuestro proceso"
+        ]
+      },
+      "support": {
+        "title": "Soporte",
+        "price": "desde € 100 / mes",
+        "items": [
+          "Soporte técnico",
+          "Pequeñas mejoras",
+          "Control de estabilidad",
+          "Actualizaciones y mantenimiento",
+          "Ayuda después del lanzamiento"
+        ]
+      }
+    },
+    "faq": {
+      "title": "Preguntas frecuentes antes del lanzamiento",
+      "desc": "Respuestas a las preguntas clave antes del lanzamiento: formato de la solución, precio y desarrollo futuro.",
+      "items": [
+        {
+          "q": "¿Es una plantilla o un desarrollo individual?",
+          "a": "La base de la solución ya existe, pero cada implementación se adapta a una empresa concreta: marca, estructura, textos, bloques, lógica de solicitudes y panel de control."
+        },
+        {
+          "q": "¿Cuánto cuesta el lanzamiento?",
+          "a": "La implementación única cuesta € 2500. El soporte parte de € 100 al mes, según el volumen de trabajo."
+        },
+        {
+          "q": "¿Qué incluye el soporte mensual?",
+          "a": "Soporte técnico, pequeños cambios, control de estabilidad, actualizaciones y ayuda con el sistema después del lanzamiento."
+        },
+        {
+          "q": "¿Se pueden añadir nuevas funciones más adelante?",
+          "a": "Sí. El proyecto está pensado para crecer: pagos online, roles adicionales, integraciones, multilenguaje y otros módulos."
+        }
+      ]
+    },
+    "contact": {
+      "eyebrow": "Contacto",
+      "title": "Te mostraré la demo, responderé a tus preguntas y te ayudaré a adaptar el sistema a tu forma de trabajar.",
+      "telegram": "Escribir por Telegram",
+      "email": "Solicitar demo por email"
+    },
+    "modal": {
+      "close": "Cerrar vídeo"
+    },
+    "footer": {
+      "copy": "© 2026 FLEET WISE"
+    }
+  }
+}

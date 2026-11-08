@@ -1,0 +1,241 @@
+{
+  "B2B": {
+    "nav": {
+      "product": "Product",
+      "cases": "Cases",
+      "screens": "Screens",
+      "pricing": "Pricing",
+      "cta": "Discuss the project"
+    },
+    "hero": {
+      "badge": "White-label",
+      "title": "A solution for car rental businesses.",
+      "subtitle": "Website, online booking and control panel — all in one system.",
+      "ctaPrimary": "View demo",
+      "ctaSecondary": "See the interface",
+      "stats": {
+        "setup": {
+          "k": "Setup",
+          "v": "€ 2500",
+          "d": "one-time launch"
+        },
+        "support": {
+          "k": "Support",
+          "v": "from € 100/mo",
+          "d": "stability and growth"
+        },
+        "format": {
+          "k": "Format",
+          "v": "White-label",
+          "d": "tailored to your brand and workflow"
+        }
+      },
+      "metrics": {
+        "site": {
+          "title": "Website",
+          "value": "Modern",
+          "note": "builds trust"
+        },
+        "booking": {
+          "title": "Booking",
+          "value": "24/7",
+          "note": "without calls"
+        },
+        "panel": {
+          "title": "Management",
+          "value": "Control panel",
+          "note": "everything under control"
+        }
+      }
+    },
+    "product": {
+      "eyebrow": "Why businesses buy it",
+      "title": "Not just a website, but a system for booking and managing a car rental business",
+      "desc": "This is not just “development”, but a ready-made solution for car rental businesses: trust, convenient booking and order in management.",
+      "tags": {
+        "brand": "for your brand",
+        "style": "dark premium style",
+        "whiteLabel": "white-label",
+        "ready": "ready to extend"
+      }
+    },
+    "features": [
+      {
+        "title": "White-label for your brand",
+        "desc": "Design, copy, colors and structure are adapted to a specific car rental business."
+      },
+      {
+        "title": "Online booking",
+        "desc": "Customers do not need to search where to write: the website leads them to a clear action."
+      },
+      {
+        "title": "Control panel",
+        "desc": "Manage orders, fleet, statuses, pricing and availability in one place."
+      },
+      {
+        "title": "Mobile version",
+        "desc": "The interface looks strong and works smoothly on mobile."
+      },
+      {
+        "title": "Post-launch support",
+        "desc": "I monitor stability, make needed changes and continue supporting the project."
+      },
+      {
+        "title": "Ready to grow",
+        "desc": "Can be expanded with payments, roles, CRM logic, languages, notifications and new modules."
+      }
+    ],
+    "painBlock": {
+      "eyebrow": "Problems this product solves"
+    },
+    "pains": [
+      "Leads get lost in WhatsApp and phone calls",
+      "Managers answer the same questions manually",
+      "There is no website that truly builds trust and sells",
+      "Customers struggle to book a car quickly without back-and-forth messages"
+    ],
+    "benefits": {
+      "eyebrow": "What the owner gets",
+      "items": {
+        "trust": {
+          "title": "More trust",
+          "desc": "A modern website looks like a serious business instead of a set of chats and links."
+        },
+        "routine": {
+          "title": "Less manual routine",
+          "desc": "Some questions and scenarios move from chats into a clear interface."
+        },
+        "control": {
+          "title": "Lead control",
+          "desc": "All incoming requests, statuses and workflow logic are collected in one panel."
+        },
+        "growth": {
+          "title": "Foundation for growth",
+          "desc": "The solution can keep growing without rebuilding everything from scratch."
+        }
+      }
+    },
+    "casesBlock": {
+      "eyebrow": "Relevant cases",
+      "title": "How it can look for a real car rental business",
+      "openSite": "open website →"
+    },
+    "cases": [
+      {
+        "name": "CAR2DRIVE",
+        "city": "Ukraine",
+        "result": "+35% leads through the website",
+        "desc": "We implemented a website and online booking. Some leads moved from messengers into the system, reducing manual handling.",
+        "url": "https://car2drive.ua",
+        "image": "/img/car2drivesite.avif"
+      },
+      {
+        "name": "MINI2GO",
+        "city": "Europe",
+        "result": "+28% conversion",
+        "desc": "We built a smoother booking flow and control panel, making the customer journey from choosing a car to submitting a request easier.",
+        "url": "https://mini2go.rent",
+        "image": "/img/mini2.avif"
+      }
+    ],
+    "screensBlock": {
+      "eyebrow": "Interface",
+      "title": "How the website, booking flow and control panel look",
+      "watchVideo": "watch video →"
+    },
+    "screenshots": [
+      {
+        "title": "Customer website",
+        "desc": "Vehicle catalog, car pages, date selection and an easy request flow.",
+        "badge": "Website",
+        "image": "/posters/poster-view-001.png",
+        "video": "/videos/view-001.mp4"
+      },
+      {
+        "title": "Booking flow",
+        "desc": "The customer sends a request without unnecessary calls, while the manager works from one panel.",
+        "badge": "Booking",
+        "image": "/posters/poster-booking-001.png",
+        "video": "/videos/booking-001.mp4"
+      },
+      {
+        "title": "Control panel",
+        "desc": "Manage orders, fleet, statuses, pricing and content.",
+        "badge": "Panel",
+        "image": "/posters/poster-panel-001.png",
+        "video": "/videos/panel-001.mp4"
+      }
+    ],
+    "processBlock": {
+      "eyebrow": "Launch process",
+      "title": "A clear launch process without unnecessary complexity"
+    },
+    "process": [
+      "We review your workflow, pricing and rental structure",
+      "We adapt the solution to your brand and processes",
+      "We show the ready interface and align the details",
+      "We launch the project and provide support after go-live"
+    ],
+    "pricing": {
+      "eyebrow": "Pricing",
+      "title": "A clear model: launch + support",
+      "desc": "One-time setup plus monthly support. No subscription for the sake of subscription, only clear business value.",
+      "setup": {
+        "title": "One-time launch",
+        "price": "€ 2500",
+        "items": [
+          "Website in your style",
+          "White-label solution setup",
+          "Online booking",
+          "Control panel",
+          "Basic adaptation to your workflow"
+        ]
+      },
+      "support": {
+        "title": "Support",
+        "price": "from € 100 / mo",
+        "items": [
+          "Technical support",
+          "Minor improvements",
+          "Stability monitoring",
+          "Updates and maintenance",
+          "Help after launch"
+        ]
+      }
+    },
+    "faq": {
+      "title": "Frequently asked questions before launch",
+      "desc": "Answers to key questions before launch: solution format, pricing, and future scaling.",
+      "items": [
+        {
+          "q": "Is this a template or a custom development?",
+          "a": "The core solution is ready, but each setup is adapted to a specific rental business: brand, structure, copy, content blocks, request flow and control panel."
+        },
+        {
+          "q": "How much does launch cost?",
+          "a": "The one-time setup is € 2500. Support starts from € 100 per month depending on the scope."
+        },
+        {
+          "q": "What is included in monthly support?",
+          "a": "Technical support, small changes, stability monitoring, updates and help with the system after launch."
+        },
+        {
+          "q": "Can new features be added later?",
+          "a": "Yes. The project is built to grow further: online payments, extra roles, integrations, multilingual support and other modules."
+        }
+      ]
+    },
+    "contact": {
+      "eyebrow": "Contacts",
+      "title": "I will show the demo, answer your questions and help adapt the system to your workflow.",
+      "telegram": "Message on Telegram",
+      "email": "Request demo by email"
+    },
+    "modal": {
+      "close": "Close video"
+    },
+    "footer": {
+      "copy": "© 2026 FLEET WISE"
+    }
+  }
+}
